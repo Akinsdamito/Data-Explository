@@ -45,7 +45,7 @@ The following file are uploded in this repository:
 * A readme file that explains the information in the data.
 
 # Result of the Analysis
-The result of the analysis has be presented in a blog, the link to the blog is https://medium.com/p/82b5c30e44cf/edit
+The result of the analysis has be presented in a blog, the link to the blog is https://medium.com/@akinola.olowookere/which-programming-language-should-i-learn-82b5c30e44cf
 
 # Acknowledgements
 * This project wouldn't be possible if not for the Stackoverflow’s 2019 Annual Developer Survey so many thanks to them.
